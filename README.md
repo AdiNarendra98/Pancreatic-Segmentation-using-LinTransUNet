@@ -1,2 +1,1 @@
-# LinTransUNet
-Dynamic Linear Transformer for 3D Biomedical Image Segmentation
+# Pancreatic Segmentation using CT Scans(LinTransUNet)
